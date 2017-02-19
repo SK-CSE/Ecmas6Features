@@ -1,2 +1,2 @@
 # Ecmas6Features
-demo of some ecmas6 features
+notes on some ecmas6 features
