@@ -6,7 +6,6 @@ function f (x, y = 7, z = 42) {
 f(15)
 ```
 
-
 ####ECMAScript 5
 ```js
 function f (x, y, z) {
