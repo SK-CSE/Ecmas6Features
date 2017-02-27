@@ -1,5 +1,3 @@
-
-
 ### ECMAScript 6
 ```js
 class Person {
@@ -16,7 +14,8 @@ class Person {
 }
 
 var man = new Person("Saurabh Kumar", "Software Engineer");
-man.describeYourself();
+
+man.describeYourself(); // My name is Saurabh Kumar and i am a Software Engineer
 ```
 
 ### ECMAScript 5
@@ -32,5 +31,5 @@ Person.prototype.describeYourself = function(){
 
 var man = new Person("Saurabh Kumar", "Software Engineer");
 
-man.describeYourself();
+man.describeYourself(); // My name is Saurabh Kumar and i am a Software Engineer
 ```
