@@ -65,7 +65,7 @@ let b = 'bar'; // SyntaxError: Identifier 'b' has already been declared
 ```
 ```js
 'use strict';
-let b = 'foo';
-let b = 'bar'; // it will not give any error 
+var b = 'foo';
+var b = 'bar'; // it will not give any error 
 ```
 
